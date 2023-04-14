@@ -1,5 +1,5 @@
 # Algorithms
-My completed programming assignments from Princeton's Algorithms Part I and Part II courses on Coursera.
+My completed Java programming assignments from Princeton's Algorithms Part I and Part II courses on Coursera.
 
 https://www.coursera.org/learn/algorithms-part1
 
